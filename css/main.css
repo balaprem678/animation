@@ -1,59 +1,52 @@
-.wrapper{
+.wrapper {
   position: absolute;
 }
-.box1{
+.box1 {
   border: 1px solid black;
 }
-.img1{
+.img1 {
   position: absolute;
   width: 300px;
   height: 600px;
   top: 0;
   left: 0;
 }
-.img11{
-  position: absolute;
-  width: 300px;
-  height: 600px;
-  top: 0;
-  left: 0;
-  
-}
-.img2{
-  position: absolute;
-  width: 300px;
-  height: 600px;
-  top: 0;
-  left: 0;
-		animation: blinkingBackground 2s infinite;
-}
-@keyframes blinkingBackground{
-  
-}
-.img21{
-  position: absolute;
-  width: 300px;
-  height: 600px;
-  top: 0;
-  left: 0;
-  
-}
-.img22{
-  position: absolute;
-  width: 300px;
-  height: 600px;
-  top: 0;
-  left: 0;
-  
-}
-.img3{
+.img11 {
   position: absolute;
   width: 300px;
   height: 600px;
   top: 0;
   left: 0;
 }
-.img31{
+.img2 {
+  position: absolute;
+  width: 300px;
+  height: 600px;
+  top: 0;
+  left: 0;
+}
+.img21 {
+  position: absolute;
+  width: 300px;
+  height: 600px;
+  top: 0;
+  left: 0;
+}
+.img22 {
+  position: absolute;
+  width: 300px;
+  height: 600px;
+  top: 0;
+  left: 0;
+}
+.img3 {
+  position: absolute;
+  width: 300px;
+  height: 600px;
+  top: 0;
+  left: 0;
+}
+.img31 {
   position: absolute;
   width: 300px;
   height: 600px;
@@ -61,21 +54,21 @@
   left: 0;
   opacity: 20%;
 }
-.img4{
+.img4 {
   position: absolute;
   width: 300px;
   height: 600px;
   top: 0;
   left: 0;
 }
-.img5{
+.img5 {
   position: absolute;
   width: 300px;
   height: 600px;
   top: 0;
   left: 0;
 }
-.img6{
+.img6 {
   position: absolute;
   width: 300px;
   height: 600px;
